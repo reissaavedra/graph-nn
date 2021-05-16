@@ -2,7 +2,7 @@
 
 🙌 Graph Neural Networks
 
-Based on Semi-Supervised Classification with Graph Convolutional Networks paper.
+Discovering Graph Neural Networks
 
 ## Cite
 
